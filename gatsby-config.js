@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/gatsby-template-with-samples",
   siteMetadata: {
     title: `Bashnya`,
     description: `Portfolio artistico de Gabriel Pajares Perez desarrollado por Santiago Romero Navarro en Gatsby React `,
